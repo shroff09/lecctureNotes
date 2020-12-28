@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lecctureNotes/static/css/main.5ddc7046.chunk.css",
+    "main.js": "/lecctureNotes/static/js/main.1dc06135.chunk.js",
+    "main.js.map": "/lecctureNotes/static/js/main.1dc06135.chunk.js.map",
+    "runtime-main.js": "/lecctureNotes/static/js/runtime-main.a7891bbb.js",
+    "runtime-main.js.map": "/lecctureNotes/static/js/runtime-main.a7891bbb.js.map",
+    "static/js/2.581d4c54.chunk.js": "/lecctureNotes/static/js/2.581d4c54.chunk.js",
+    "static/js/2.581d4c54.chunk.js.map": "/lecctureNotes/static/js/2.581d4c54.chunk.js.map",
+    "static/js/3.206764fc.chunk.js": "/lecctureNotes/static/js/3.206764fc.chunk.js",
+    "static/js/3.206764fc.chunk.js.map": "/lecctureNotes/static/js/3.206764fc.chunk.js.map",
+    "index.html": "/lecctureNotes/index.html",
+    "static/css/main.5ddc7046.chunk.css.map": "/lecctureNotes/static/css/main.5ddc7046.chunk.css.map",
+    "static/js/2.581d4c54.chunk.js.LICENSE.txt": "/lecctureNotes/static/js/2.581d4c54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7891bbb.js",
+    "static/js/2.581d4c54.chunk.js",
+    "static/css/main.5ddc7046.chunk.css",
+    "static/js/main.1dc06135.chunk.js"
+  ]
+}
