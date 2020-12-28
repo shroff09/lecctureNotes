@@ -63,6 +63,8 @@ const DashBoard = () => {
                 {weather?.location.region}, {weather?.location.country}
               </h2>
               <h1 className="weather">
+                 Wind Degree:{weather?.current.wind_degree}<br/>
+                Wind Speed :{weather?.current.wind_mph}miles/hr<br/>
                 In C: {weather?.current.temp_c} ° <br />
                 In F: {weather?.current.temp_f} ° <br />
                 Humidity: {weather?.current.humidity} <br />
